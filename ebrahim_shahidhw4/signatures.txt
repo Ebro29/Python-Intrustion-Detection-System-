@@ -1,0 +1,7 @@
+"ICMP PING" (icmp),  Count: 1627,  Unique sources: 592,  Sid: 384
+"PSAD-CUSTOM Nachi worm reconnaisannce" (icmp),  Count: 1575,  Unique sources: 587,  Sid: 100209
+"PSAD-CUSTOM Slammer communication attempt" (udp),  Count: 244,  Unique sources: 159,  Sid: 100208
+"MISC Windows popup spam attempt" (udp),  Count: 241,  Unique sources: 19,  Sid: 100196
+"PSAD-CUSTOM Kuang2 virus communication attempt" (tcp),  Count: 142,  Unique sources: 2,  Sid: 100206
+"MISC Microsoft SQL Server communication attempt" (tcp),  Count: 52,  Unique sources: 2,  Sid: 100205
+"BACKDOOR typot trojan traffic" (tcp),  Count: 15,  Unique sources: 2,  Sid: 2182
